@@ -1,4 +1,5 @@
-#Demo Project README
+# udemy - GitHub Ultimate: Master Git and GitHub - Beginner to Expert
+##Demo Project README
 Sample text file for Git project
 
 ##Additional Info
