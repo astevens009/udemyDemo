@@ -1,2 +1,2 @@
-# udemy - Git Hub Maste Course
+# udemy - Git Hub Master Course
 ## Git/GitHub demo files
